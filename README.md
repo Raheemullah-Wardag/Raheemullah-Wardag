@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am a NextJS , React Frontend Developer eager to dive in backend and AI.<br> <br>
+Backend + AI-focused engineer. Currently building production-structured Node.js/Express APIs with PostgreSQL, JWT auth, and working toward RAG/AI application development. BS Software Engineering @ UET Lahore.<br> <br>
 
 
 ## 🌐 Socials:
